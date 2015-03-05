@@ -4,4 +4,8 @@ class PagesController < ApplicationController
 
   def login
   end
+
+  def result_page
+  end
+  
 end
